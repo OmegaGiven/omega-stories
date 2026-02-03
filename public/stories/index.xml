@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stories on Omega Stories</title>
+    <link>http://localhost:39081/stories/</link>
+    <description>Recent content in Stories on Omega Stories</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:39081/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Signal From Ice</title>
+      <link>http://localhost:39081/stories/the-signal-from-ice/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:39081/stories/the-signal-from-ice/</guid>
+      <description>A salvage crew intercepts a voice trapped inside a drifting glacier.</description>
+    </item>
+  </channel>
+</rss>

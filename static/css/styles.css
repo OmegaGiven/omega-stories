@@ -1,0 +1,230 @@
+:root {
+  --bg: #f7f1e8;
+  --bg-alt: #e7ded2;
+  --text: #1b140f;
+  --accent: #a8512b;
+  --accent-strong: #7c2f13;
+  --card: #fffdf9;
+  --shadow: rgba(36, 20, 12, 0.15);
+  --border: rgba(27, 20, 15, 0.12);
+  --serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  --sans: "Avenir Next", "Gill Sans", "Trebuchet MS", sans-serif;
+}
+
+:root[data-theme="dark"] {
+  --bg: #0d0b0a;
+  --bg-alt: #1b1410;
+  --text: #f2e9dd;
+  --accent: #ff7a45;
+  --accent-strong: #ffb38a;
+  --card: #17110e;
+  --shadow: rgba(0, 0, 0, 0.4);
+  --border: rgba(242, 233, 221, 0.1);
+}
+
+:root[data-theme="paper"] {
+  --bg: #fbf6ea;
+  --bg-alt: #efe6d6;
+  --text: #2d241c;
+  --accent: #8a4a2f;
+  --accent-strong: #6d3520;
+  --card: #fffaf0;
+  --shadow: rgba(60, 45, 30, 0.12);
+  --border: rgba(45, 36, 28, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at top left, var(--bg-alt), var(--bg));
+  color: var(--text);
+  font-family: var(--serif);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--accent-strong);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.2em;
+}
+
+.container {
+  width: min(1100px, 92vw);
+  margin: 0 auto;
+}
+
+main.container {
+  flex: 1;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  background: rgba(247, 241, 232, 0.9);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+  z-index: 10;
+}
+
+:root[data-theme="dark"] .site-header {
+  background: rgba(13, 11, 10, 0.9);
+}
+
+:root[data-theme="paper"] .site-header {
+  background: rgba(251, 246, 234, 0.9);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.site-title {
+  font-family: var(--sans);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.site-nav {
+  display: flex;
+  gap: 1.5rem;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: transparent;
+  font-family: var(--sans);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.hero {
+  padding: 4rem 0 3rem;
+}
+
+.hero-content {
+  max-width: 640px;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+}
+
+h1, h2, h3 {
+  font-family: var(--sans);
+  margin: 0.3rem 0 1rem;
+}
+
+.lead {
+  font-size: 1.2rem;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.7rem 1.4rem;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  font-family: var(--sans);
+  font-weight: 600;
+}
+
+.button-outline {
+  background: transparent;
+  color: var(--accent-strong);
+}
+
+.section {
+  padding: 2rem 0 4rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  padding: 1.5rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 1.25rem;
+  box-shadow: 0 12px 30px var(--shadow);
+}
+
+.meta {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.page-header {
+  padding: 2.5rem 0 1.5rem;
+}
+
+.prose {
+  max-width: 720px;
+  margin: 0 auto 4rem;
+}
+
+.prose p {
+  margin-bottom: 1.2rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 2rem 0 3rem;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 720px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .site-nav {
+    flex-wrap: wrap;
+  }
+}

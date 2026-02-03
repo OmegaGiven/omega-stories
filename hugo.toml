@@ -1,0 +1,25 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Omega Stories"
+
+[pagination]
+  pagerSize = 6
+
+[params]
+  description = "Short stories and graphic novels by omegagiven."
+  author = "omegagiven"
+
+[menu]
+  [[menu.main]]
+    name = "Stories"
+    url = "/stories/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

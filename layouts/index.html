@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-content">
+    <p class="eyebrow">Story lab</p>
+    <h1>{{ .Site.Title }}</h1>
+    <p class="lead">{{ .Site.Params.description }}</p>
+    <div class="hero-actions">
+      <a class="button" href="/stories/">Read the stories</a>
+      <a class="button button-outline" href="/about/">About the author</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Latest stories</h2>
+  <div class="card-grid">
+    {{ range first 3 (where .Site.RegularPages "Section" "stories") }}
+      <article class="card">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Summary }}</p>
+        <span class="meta">{{ .Date.Format "Jan 2, 2006" }}</span>
+      </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
