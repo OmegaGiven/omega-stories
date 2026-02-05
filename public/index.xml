@@ -2,24 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Omega Stories</title>
-    <link>http://localhost:39081/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Omega Stories</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:39081/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Signal From Ice</title>
-      <link>http://localhost:39081/stories/the-signal-from-ice/</link>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39081/stories/the-signal-from-ice/</guid>
-      <description>A salvage crew intercepts a voice trapped inside a drifting glacier.</description>
+      <title>Don&#39;t Touch Mysterious Stones</title>
+      <link>http://localhost:1313/stories/dont-touch-mysterious-stones/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stories/dont-touch-mysterious-stones/</guid>
+      <description>A Man drew the short end of the straw and now must find out what has happened since he was last concious and what has taken over him</description>
+    </item>
+    <item>
+      <title>Demon&#39;s Delights</title>
+      <link>http://localhost:1313/stories/demon-delights/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stories/demon-delights/</guid>
+      <description>A boy gains mystic powers for making unique foods</description>
+    </item>
+    <item>
+      <title>Rival over Truffle</title>
+      <link>http://localhost:1313/stories/rival-over-truffle/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stories/rival-over-truffle/</guid>
+      <description>A Chef meets his rival&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Stew For a Crew</title>
+      <link>http://localhost:1313/stories/stew-for-a-crew/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stories/stew-for-a-crew/</guid>
+      <description>A Chef makes friends with bandits</description>
+    </item>
+    <item>
+      <title>Dragon&#39;s Supper</title>
+      <link>http://localhost:1313/stories/dragons-supper/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stories/dragons-supper/</guid>
+      <description>A Legendary Chef Journeys across a frozen waste to grab the perfect ingredients</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:39081/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39081/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Meet the author and the worlds behind the stories.</description>
     </item>
   </channel>

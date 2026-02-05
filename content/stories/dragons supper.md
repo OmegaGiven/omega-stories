@@ -1,0 +1,139 @@
+---
+title: "Dragon's Supper"
+date: 2023-06-11
+summary: "A Legendary Chef Journeys across a frozen waste to grab the perfect ingredients"
+---
+
+## Dragon's Supper
+
+A Gust of cold air vigorously clawed out of the icy maw of the cave tugging at the white creases of his hat. Standing stoically, shoulders brawny and bold, he stood staring into the Cave. pan in one hand chopsticks in the other, his nose twitched.
+
+sniff
+
+“It’s here…. I smell it” 
+
+Silence. 
+
+The large man dressed in all white blending into the snowy tundra, descended into the cave where no warrior, mage or creature has ever returned.
+
+A crunch of the loose entrance snow under his feet echoed into the void where the sound reverberated across the dim gleam of icicles that formed above and below. 
+
+Closing his tired eyes relying only on his keen nose he moved forward into the dark.
+
+One sniff here,
+
+One sniff there.
+
+An hour passed of his loose broken stride sniffing the invisible aromas he so desperately searched for, driving him deeper into the pit of cold abominable abyss.
+
+A boisterous rumble quaked throughout the cave. A shimmer of rattling ice around him twinkled in his ears.
+
+A low deep voice echoed throughout the cavernous cave “Well well well, Has Another meal come to my realm?”
+
+Sniff. 
+
+Slowly opening his eyes, the man gazed through the dark. with only a sliver of light mirroring across the slick surfaces of the cave a shadow of the master of this realm loomed over him, a great Silver scaled god of ice and tundra. In the common tongue one would call such a creature: Dragon. 
+
+“Do I have to repeat myself human, why do you bother me with your insolent sniffing. Do you smell the rotting bones of your kind?" The great beast with its claws gripped the earth below resonating a crumbling of crushed skeletons in his grasp.
+
+“I have come for that”  said the man calmly pointing past the dragon. 
+
+Behind the dragon the man could see a glimmer of different colors; gold, silver, crystals and more.
+
+“Like many before, You wish to take my hoard?” A loud crackle echoed through the dark. A laugh to a dragon’s ear but a thunderous boom to the human ear.
+
+“No, I’ve come for those icicles” the man said with a grin. A glistening excitement could be seen in his eyes as they were fixed on the glow of the bluest ice that humans had barely seen in their existence. Ice that was so pure that somehow this man could smell its purity over the decaying bones around him.
+
+Another thunderous boom shook the cave. “You make me laugh, human. You come to be my next meal for some mere ice?” The dragon's snake-like head leaned in close, taunting the man to take a swing.
+
+“If it is a meal you want then it is my duty to provide” the man replied.
+
+Swiftly the man tucked his chopsticks behind his ear then whispered an incantation into his hand. words a simple person would not understand but in the common tongue may resemble the meaning of “hellfires ember”. A poof of black smoke appeared and through it a deep red light glowed. 
+
+The man threw it on the ground and dropped his dark metal pan on top. Quickly diving into his ruck sack he pulled out another bag. Opening it he unveiled a large venison. Tied together with seasonings the venison emitted an aroma that overthrew the putrid smell beneath them.
+
+“Now you have me intrigued, I’ve never had someone prepare a meal for me. But do you think that such a small pinch of meat could put my stomach at bay until I eat you?”
+
+“Save your tongue. I don’t wish for it to go sour before I have prepared your meal”
+
+The man said, staring at the venison as he threw it onto the pan, searing it on all sides. not once breaking eye contact with the juicy meat as steam filled the frigid air around them.
+
+Sniff
+
+“There. Your dish is ready, oh great one ” the man with his thick callused hands grabbed his chopsticks from behind his ears. With a snap of his fingers he gripped the thick venison and lifted it up to the dragon's icy cold mouth.
+
+The chilling god curiously stared at the man with the morsel of meat before him. It is known that dragons have resistance to poisons if this was a ploy to slay the dragon in such a way but even so, the dragon wondered why such a human would do this knowing they would be eaten after any attempts at mercy would be in vain. The dragon wrapped its mouth around the seared venison.
+
+The man softly spoke looking into the dragon's eyes no closer than a couple arms length away. “don’t swallow so fast, Savor it”
+
+The dragon with suspicious awe complied. Biting into the venison. A smelting gush of seasoned fat coated the dragon's pale tongue. The dragon's eyes grew wide as the flavor unfolded into its mouth then trickled down its throat. As if the universe bowed itself to time. The dragon stood there enjoying all the flavor it had never tasted until now.
+
+“Is it to your liking?” The man asked, still staring into his patient's eyes, seeing what no human could identify as joy, from a beast so brutal that nothing close to joy could ever exist in it.
+
+A gulp, then silence. The dragon returned its suspicious gaze at the white cloaked human before him, Then moved to the side of the cave. Not wanting to give any praise to a human for such a meal the dragon spoke “why do you really come here?”
+
+“Like I said before, I have come for that ice.” Staring back at the dragon he continued “Ice touched by a cold god when melted over the fires of hell and sprinkled with the leaf of the Netherine makes the strongest of tea, that even a dragon would go limp from its greatness.”
+
+“If that is so, make me this drink” the dragon motioned with its head allowing the human to approach his hoard where the ice dangled above.
+
+The man walked steadfastly, crossing the threshold of the dragon's hoard, stepping over gold coins, challises, Silver wares, crystal fragments, and all other sorts of riches, until he was at the top of the mound and reached for a deep dark blue icicle. With a firm grasp, the man snapped off a piece of the ice.
+
+Turning back to see the dragon he reached down at his feet and grabbed a golden chalice from among the riches. the dragon raising its head a little but then relaxed as the human walked back making eye contact with the dragon acknowledging its permission. 
+
+The man stepped up to where his pan and embers lay at the mouth of the dragon's domain. Grabbing a rag, he wiped away any remaining fat from his pan left by the venison he just cooked moments ago, and placed the piece of ice. 
+
+As if an eternity of looming stress went by, the dragon and the man stared at the ice while it slowly began to melt in the pan revealing the clearest of water with a magical blue vibrant shine casting a glow onto the man and the great beast. 
+
+The human reached into his ruck sack and withdrew a small silk bag where he plucked out a single red wilted leaf. Carefully letting go, the leaf fluttered down until it gently landed on the water and instantly melted into the liquid, turning it to a deep crimson red.
+
+Sniff
+
+“It is done” 
+
+The man grabbed the handle of his pan and poured a portion of the liquid into the golden chalice he obtained from the dragons hoard. Stepping before the dragon he bowed himself and raised the drink to the dragon. “As you requested oh great one, your drink.”
+
+The dragon raised its claws and gently clasped the edge of the chalice just above the man’s hands and took it. with a moment of hesitation the dragon waited for instruction from the human on how to partake knowing that the man had intuition that it had never possessed on the consumption of food.
+
+“Drink however you like, the tea’s aroma will do its work however you partake,” the man said, sensing the dragon's intentions.
+
+The dragon swiftly slurped all the tea, gulping it down immediately. Moments passed. The dragon seemed unimpressed other than the subtle sweet aroma from the steam of the tea, he did not get satisfaction like from the venison before. 
+
+A minute passed. 
+
+Then another. 
+
+“I am unsatisfied with this drink human…” but almost as if the dragon's stomach took offense to its own words. The aromas started pouring out of its body filling its nostrils and mouth with a great sweetness. 
+
+In shock at what just happened the dragon almost pranced but then suddenly a bitterness followed. With that bitterness the dragon started to lose feeling. Squeezing out some breath the dragon looked back upon the human still bowing down not moving an inch. 
+
+“What have you done to me, human?” 
+
+The dragon's head grew limp and slammed against the ground but still maintained consciousness to see the human stand up.
+
+“I told you, the tea… even a dragon would go limp from its greatness” the man turned from the dragon and procured a meat cleaver from his bag.
+
+The dragon barely able to move its mouth muttered “So you are like the rest, here to claim my hoard, but unlike them have tricked me”
+
+“I am not here for your hoard. No gold or silver could be worth more than the creations I make.” The man walked past the limp head of the dragon and stopped before the dragon's tail.
+
+“What do you plan to do… human?”
+
+“I am going to claim a reward, great one, the tail of a god…” the man looked back at the dragon's head, meeting eyes with the great beast “when seasoned with the minerals of the Barrons, and dried in the desert of the genie. Makes the most flavorful of jerky”
+
+Raising his knife the dragon's eyes clamped shut waiting for the pain of the human's blade to cut through its scales. A moment passed but no pain came. Peeking through its eyelids the dragon saw the human dragging a portion of its tail away. 
+
+Where was the pain the dragon thought… but as if its mind was being read, the human responded “I told you, you would be limp. You will feel a little pain return to you in a few days after the tea wears off. I thank you great one, no gold or silver can ever amount up to the food I make.” 
+
+The man gathered his supplies and poured the remaining tea into a bottle, then tied up the tail to drag it out of the cave and across the abyssal tundra.
+
+“Human, When I wake I will find you and you will be my next meal”
+
+“Then who would prepare you your next meal?” The man glanced back and grinned.
+
+“What is your name?” The dragon stammered back.
+
+The man started walking away dragging the heavy tail behind him. “I have no name.” he paused then looked back “Chef, that’s what some call me.”
+
+“Curse you Chef…”
+
+The dragon's eyes closed and a soft snore breathed into the cold dark cave. The sound of crunching feet and rough rumbling of the dragging tail faded.Silence filled the cave and the mighty god of tundra and ice was left to his domain in the stench of his previous meals.
