@@ -77,6 +77,7 @@ main.container {
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
   z-index: 10;
+  transition: transform 0.25s ease;
 }
 
 :root[data-theme="dark"] .site-header {
@@ -227,4 +228,20 @@ h1, h2, h3 {
   .site-nav {
     flex-wrap: wrap;
   }
+
+  body[data-section="stories"] .page-header {
+    padding-top: 1.5rem;
+  }
+
+  body[data-section="stories"] .prose {
+    max-width: 100%;
+    margin: 0 auto 2.5rem;
+  }
+
+  body[data-section="stories"] main.container {
+    width: min(100%, 94vw);
+  }
+}
+.header-hidden .site-header {
+  transform: translateY(-110%);
 }
