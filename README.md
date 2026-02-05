@@ -1,6 +1,11 @@
 # Omega Stories
 
-A Hugo-powered home for short stories and graphic novel previews.
+If you want to tip me im always down just need to setup the pages as i would love to be funded to make stories as I love writing just never find the time between work and family.
+
+
+### Programmer stuff:
+
+A Hugo-powered site
 
 ## Quick start
 
@@ -21,11 +26,8 @@ hugo server
 
 ## GitHub Pages (basic)
 
-1. Set `baseURL` in `hugo.toml` to your GitHub Pages URL.
-2. Build the site:
+Build the site locally:
 
 ```bash
-hugo
+hugo server
 ```
-
-3. Publish the `public/` folder to GitHub Pages (via a GitHub Actions workflow or by pushing the folder to a `gh-pages` branch).
