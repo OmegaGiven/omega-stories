@@ -1,12 +1,11 @@
 {{ define "main" }}
 <section class="hero">
   <div class="hero-content">
-    <p class="eyebrow">Story lab</p>
     <h1>{{ .Site.Title }}</h1>
     <p class="lead">{{ .Site.Params.description }}</p>
     <div class="hero-actions">
-      <a class="button" href="/stories/">Read the stories</a>
-      <a class="button button-outline" href="/about/">About the author</a>
+      <a class="button" href="{{ "stories/" | relURL }}">Read the stories</a>
+      <a class="button button-outline" href="{{ "about/" | relURL }}">About the author</a>
     </div>
   </div>
 </section>

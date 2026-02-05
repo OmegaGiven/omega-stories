@@ -1,9 +1,9 @@
 <header class="site-header">
   <div class="container header-inner">
-    <a class="site-title" href="/">{{ .Site.Title }}</a>
+    <a class="site-title" href="/omega-stories/">{{ .Site.Title }}</a>
     <nav class="site-nav">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}">{{ .Name }}</a>
+        <a href="{{ .URL | absURL }}">{{ .Name }}</a>
       {{ end }}
     </nav>
     {{ partial "theme-toggle.html" . }}
