@@ -2,21 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/omega-stories/stories/dont-touch-mysterious-stones/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/omega-stories/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/the-signal-from-ice/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/omega-stories/stories/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/the-chronicles-of-chef/</loc>
+    <loc>http://localhost:1313/omega-stories/stories/demon-delights/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/omega-stories/stories/rival-over-truffle/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/omega-stories/stories/stew-for-a-crew/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/omega-stories/stories/dragons-supper/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/omega-stories/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/omega-stories/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/omega-stories/tags/</loc>
   </url>
 </urlset>
