@@ -1,9 +1,10 @@
-# Omega Stories
+# Omega Stories https://omegagiven.github.io/omega-stories/
 
-If you want to tip me im always down just need to setup the pages as i would love to be funded to make stories as I love writing just never find the time between work and family.
+Will add tip links if you ever want to tip me for any of my creative works
 
 
-### Programmer stuff:
+
+# Programmer stuff:
 
 A Hugo-powered site
 
