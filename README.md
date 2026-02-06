@@ -31,3 +31,7 @@ Build the site locally:
 ```bash
 hugo server
 ```
+
+## for Comments
+
+We use https://giscus.app/
