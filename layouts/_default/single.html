@@ -3,8 +3,14 @@
   <header class="page-header">
     <p class="eyebrow">{{ .Section | title }}</p>
     <h1>{{ .Title }}</h1>
-    <p class="meta">{{ .Date.Format "Jan 2, 2006" }}</p>
+    <p class="meta">
+      {{ .Date.Format "Jan 2, 2006" }}
+      {{ with .Params.author }} · {{ . }}{{ else }} · {{ .Site.Params.author }}{{ end }}
+    </p>
   </header>
   {{ .Content }}
 </article>
+{{ if eq .Section "stories" }}
+  {{ partial "giscus.html" . }}
+{{ end }}
 {{ end }}

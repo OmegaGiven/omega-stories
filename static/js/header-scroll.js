@@ -43,7 +43,7 @@
     if (event.touches && event.touches.length > 0) return;
     const now = Date.now();
     if (now - lastTap <= 350) {
-      setHidden(false);
+      setHidden(!hidden);
     }
     lastTap = now;
   };
@@ -51,6 +51,6 @@
   document.addEventListener('touchend', onTouchEnd, { passive: true });
   document.addEventListener('dblclick', () => {
     if (!mediaQuery.matches) return;
-    setHidden(false);
+    setHidden(!hidden);
   });
 })();

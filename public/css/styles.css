@@ -23,14 +23,14 @@
 }
 
 :root[data-theme="paper"] {
-  --bg: #fbf6ea;
-  --bg-alt: #efe6d6;
-  --text: #2d241c;
-  --accent: #8a4a2f;
-  --accent-strong: #6d3520;
-  --card: #fffaf0;
-  --shadow: rgba(60, 45, 30, 0.12);
-  --border: rgba(45, 36, 28, 0.12);
+  --bg: #ead2a6;
+  --bg-alt: #d9b985;
+  --text: #2a1f12;
+  --accent: #8a4a23;
+  --accent-strong: #6c3419;
+  --card: #f1ddba;
+  --shadow: rgba(58, 39, 22, 0.2);
+  --border: rgba(78, 52, 32, 0.22);
 }
 
 * {
@@ -46,6 +46,37 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+}
+
+body[data-theme="paper"] {
+  background:
+    radial-gradient(rgba(120, 90, 50, 0.08) 0.6px, transparent 0.7px),
+    radial-gradient(rgba(140, 110, 70, 0.06) 0.5px, transparent 0.6px),
+    repeating-linear-gradient(
+      0deg,
+      rgba(120, 90, 50, 0.04),
+      rgba(120, 90, 50, 0.04) 1px,
+      rgba(255, 255, 255, 0) 1px,
+      rgba(255, 255, 255, 0) 3px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(140, 110, 70, 0.03),
+      rgba(140, 110, 70, 0.03) 1px,
+      rgba(255, 255, 255, 0) 1px,
+      rgba(255, 255, 255, 0) 4px
+    ),
+    radial-gradient(circle at 15% 5%, rgba(255, 232, 190, 0.7), transparent 55%),
+    radial-gradient(circle at 85% 0%, rgba(255, 223, 175, 0.6), transparent 50%),
+    linear-gradient(180deg, var(--bg-alt), var(--bg));
+  background-size:
+    6px 6px,
+    10px 10px,
+    auto,
+    auto,
+    auto,
+    auto,
+    auto;
 }
 
 a {
@@ -85,7 +116,7 @@ main.container {
 }
 
 :root[data-theme="paper"] .site-header {
-  background: rgba(251, 246, 234, 0.9);
+  background: rgba(234, 220, 190, 0.9);
 }
 
 .header-inner {
@@ -174,6 +205,32 @@ h1, h2, h3 {
   padding: 2rem 0 4rem;
 }
 
+.about-section {
+  padding: 2.5rem 0 4rem;
+}
+
+.about-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.about-bubble {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  box-shadow: 0 18px 40px var(--shadow);
+  padding: 1.8rem 2rem 2rem;
+}
+
+.about-bubble .page-header {
+  padding: 0 0 1rem;
+}
+
+.about-bubble .prose {
+  max-width: none;
+  margin: 0;
+}
+
 .card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -205,6 +262,16 @@ h1, h2, h3 {
 
 .prose p {
   margin-bottom: 1.2rem;
+}
+
+.comments {
+  max-width: 720px;
+  margin: 0 auto 4rem;
+}
+
+.comments h2 {
+  font-family: var(--sans);
+  margin: 0 0 1rem;
 }
 
 .site-footer {

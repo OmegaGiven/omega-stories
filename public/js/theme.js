@@ -10,6 +10,7 @@
     if (label) {
       label.textContent = next.charAt(0).toUpperCase() + next.slice(1);
     }
+    window.dispatchEvent(new CustomEvent('theme-change', { detail: { theme: next } }));
   };
 
   const stored = localStorage.getItem('theme');
