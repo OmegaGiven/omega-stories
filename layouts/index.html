@@ -16,6 +16,15 @@
     {{ range first 3 (where .Site.RegularPages "Section" "stories") }}
       <article class="card">
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ $authorName := "" }}
+        {{ if .Params.authors }}
+          {{ $authorName = delimit .Params.authors ", " }}
+        {{ else if .Params.author }}
+          {{ $authorName = .Params.author }}
+        {{ else }}
+          {{ $authorName = .Site.Params.author }}
+        {{ end }}
+        <span class="meta">By {{ $authorName }}</span>
         <p>{{ .Summary }}</p>
         <span class="meta">{{ .Date.Format "Jan 2, 2006" }}</span>
       </article>
