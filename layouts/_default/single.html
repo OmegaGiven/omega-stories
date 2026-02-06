@@ -5,7 +5,15 @@
     <h1>{{ .Title }}</h1>
     <p class="meta">
       {{ .Date.Format "Jan 2, 2006" }}
-      {{ with .Params.author }} · {{ . }}{{ else }} · {{ .Site.Params.author }}{{ end }}
+      {{ $authorName := "" }}
+      {{ if .Params.authors }}
+        {{ $authorName = delimit .Params.authors ", " }}
+      {{ else if .Params.author }}
+        {{ $authorName = .Params.author }}
+      {{ else }}
+        {{ $authorName = .Site.Params.author }}
+      {{ end }}
+      · {{ $authorName }}
     </p>
   </header>
   {{ .Content }}

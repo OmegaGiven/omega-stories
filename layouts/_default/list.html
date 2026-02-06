@@ -1,16 +1,50 @@
 {{ define "main" }}
 <header class="page-header">
-  <h1>{{ .Title }}</h1>
+  {{ if ne .Section "stories" }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
   {{ with .Params.summary }}<p class="lead">{{ . }}</p>{{ end }}
 </header>
 
-<div class="card-grid">
+{{ if eq .Section "stories" }}
+  <div class="story-controls">
+    <label class="story-control">
+      <span class="meta">Search</span>
+      <input id="story-search" type="search" placeholder="Search stories..." aria-label="Search stories" />
+    </label>
+    <label class="story-control">
+      <span class="meta">Author</span>
+      <select id="author-filter" aria-label="Filter by author">
+        <option value="all">All authors</option>
+        {{ range .Site.Taxonomies.authors.Alphabetical }}
+          <option value="{{ .Term | urlize }}">{{ .Term }}</option>
+        {{ end }}
+      </select>
+    </label>
+  </div>
+{{ end }}
+
+<div class="card-grid" {{ if eq .Section "stories" }}id="story-grid"{{ end }}>
   {{ range .Pages }}
-    <article class="card">
+    {{ $title := .Title | plainify | htmlEscape }}
+    {{ $summary := .Summary | plainify | htmlEscape }}
+    {{ $authors := "" }}
+    {{ if .Params.authors }}
+      {{ $authors = delimit .Params.authors "|" }}
+    {{ else if .Params.author }}
+      {{ $authors = .Params.author }}
+    {{ else }}
+      {{ $authors = .Site.Params.author }}
+    {{ end }}
+    <article class="card" {{ if eq $.Section "stories" }}data-story data-title="{{ $title }}" data-summary="{{ $summary }}" data-authors="{{ $authors | urlize }}"{{ end }}>
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <p>{{ .Summary }}</p>
       <span class="meta">{{ .Date.Format "Jan 2, 2006" }}</span>
     </article>
   {{ end }}
 </div>
+
+{{ if eq .Section "stories" }}
+  <p id="story-empty" class="meta story-empty" hidden>No stories match your search.</p>
+{{ end }}
 {{ end }}

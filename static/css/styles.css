@@ -237,6 +237,35 @@ h1, h2, h3 {
   gap: 1.5rem;
 }
 
+.story-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.story-control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  min-width: 220px;
+  font-family: var(--sans);
+}
+
+.story-control input,
+.story-control select {
+  padding: 0.6rem 0.8rem;
+  border-radius: 0.8rem;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+  font-family: var(--sans);
+}
+
+.story-empty {
+  margin: 1.5rem 0 3rem;
+}
+
 .card {
   padding: 1.5rem;
   background: var(--card);

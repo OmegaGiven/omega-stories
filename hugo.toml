@@ -2,6 +2,11 @@ baseURL = "https://omegagiven.github.io/omega-stories/"
 languageCode = "en-us"
 title = "Omega Stories"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+
 [pagination]
   pagerSize = 6
 

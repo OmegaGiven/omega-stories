@@ -25,6 +25,8 @@
   </url><url>
     <loc>http://localhost:1313/omega-stories/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/omega-stories/authors/</loc>
+  </url><url>
     <loc>http://localhost:1313/omega-stories/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/omega-stories/tags/</loc>

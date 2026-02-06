@@ -6,6 +6,12 @@
         <p class="eyebrow">{{ .Section | title }}</p>
         {{ $author := .Params.author | default .Site.Params.author }}
         <h1>About {{ $author }}</h1>
+        {{ with .Params.synopsis }}
+          <p class="meta">{{ . }}</p>
+        {{ end }}
+        <p class="meta">
+          <a href="{{ printf "stories/?author=%s" (urlize $author) | relURL }}">View stories by {{ $author }}</a>
+        </p>
       </header>
       <div class="prose">
         {{ .Content }}
