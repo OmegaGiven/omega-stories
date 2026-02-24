@@ -361,3 +361,7 @@ What to look for when buying a house:
 6. Property tax?
 7. cost of a uber to airport or time to get to airport
 8. how much is flights of airport in that area.
+
+## Remodeling or improving you house:
+
+- Handle Termites: spray wood framing 2ft high with Bora-care it will get absorbed into the wood so if termites ever come and try to eat the wood framing of your house they will die rapidly. https://youtu.be/LIvPla-07fo
