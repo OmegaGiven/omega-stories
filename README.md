@@ -5,6 +5,9 @@ Will add tip links if you ever want to tip me for any of my creative works
 <img width="1147" height="1088" alt="image" src="https://github.com/user-attachments/assets/c5919513-d146-4fb8-bcd8-19bbf6949a30" />
 
 
+<img width="1080" height="2105" alt="image" src="https://github.com/user-attachments/assets/ffb7409a-d099-4a00-8421-eba86ab6202f" />
+
+
 
 # Programmer stuff:
 
